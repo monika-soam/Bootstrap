@@ -1,0 +1,17 @@
+.home-page {
+  background-image: url("./assets/img/Header-llustration-desktop.svg");
+}
+
+.inner-work {
+  background-color: #ebf0ee;
+}
+
+.inner-work img {
+  width: 7em;
+  height: 7em;
+  background-color: #fff;
+}
+
+.img-div img {
+  border-radius: 4em;
+}
